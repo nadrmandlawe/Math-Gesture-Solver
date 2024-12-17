@@ -1,0 +1,8 @@
+cvzone==1.6.1
+numpy==2.2.0
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
+Pillow==11.0.0
+protobuf==5.29.1
+python-dotenv==1.0.1
+streamlit==1.41.1
