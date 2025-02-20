@@ -1,0 +1,11 @@
+cvzone
+numpy
+opencv_contrib_python
+opencv_python
+Pillow
+protobuf
+python-dotenv
+streamlit
+opencv-python-headless
+mediapipe
+google-generativeai
